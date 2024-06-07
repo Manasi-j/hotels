@@ -1,0 +1,4 @@
+#Ingnore node_modules dicrectory
+node_modules/
+
+#other entries
